@@ -1,6 +1,6 @@
 # Supply chain performance dashboard using Power BI
 ## Overview
-This project aims to analyze and visualize through an interactive Power BI dashboard to measure supply chain performance of a Fashion and Beauty startup through Sales, Transportation, Manufacturing, Lead Time and Cost. The dashboard helps business stakeholders monitor key metrics related to product sales, customer behavior, shipping performance, and manufacturing costs.
+This project aims to analyze and visualize supply chain performance of a Fashion and Beauty startup through an interactive Power BI dashboard. The dashboard helps business stakeholders monitor key metrics related to product sales, customer behavior, inventory, shipping performance, and manufacturing costs.
 Objective: Provide actionable insights to optimize supply chain efficiency, reduce costs, and improve product availability.
 ## Business Context
 In a fast-paced supply chain environment (e.g., FMCG or retail), companies face challenges such as:
