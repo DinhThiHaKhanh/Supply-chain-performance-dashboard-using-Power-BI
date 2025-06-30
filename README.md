@@ -1,13 +1,16 @@
 # Supply chain performance dashboard using Power BI
 ## Overview
-This project aims to build a dashboard using Power BI to measure supply chain performance of a Fashion and Beauty startup through Sales, Transportation, Manufacturing, Lead Time and Cost. The dataset is based on the supply chain of Makeup products.
-## Work flow
-- Import data to Power BI
-- Explore the dataset: Look through the columns to understand data's structure and contents
-- Transform the dataset: Clean and process data using Data Preview, Power Query and DAX
-- Analyze the dataset: Ask questions to filter hightlight information
-- Visualization: Create visualizations to assist key findings
-- Report making: Interpret the results and give informed decisions for the company
+This project aims to analyze and visualize through an interactive Power BI dashboard to measure supply chain performance of a Fashion and Beauty startup through Sales, Transportation, Manufacturing, Lead Time and Cost.The dashboard helps business stakeholders monitor key metrics related to product sales, customer behavior, shipping performance, and manufacturing costs.
+Objective: Provide actionable insights to optimize supply chain efficiency, reduce costs, and improve product availability.
+## Business Context
+In a fast-paced supply chain environment (e.g., FMCG or retail), companies face challenges such as:
+- Fluctuating product demand
+- High shipping costs
+- Delays in delivery or manufacturing
+This project addresses these issues through data-driven performance analysis across key areas.
+## Tools Used
+- Power BI: For dashboard creation and data visualization
+- Excel/CSV: Source of raw supply chain data
 ## Dataset's features
 - Product Type
 - SKU
@@ -33,7 +36,14 @@ This project aims to build a dashboard using Power BI to measure supply chain pe
 - Transportation modes
 - Routes
 - Costs
-## Questions
+## Work flow
+- Import data to Power BI
+- Explore the dataset: Look through the columns to understand data's structure and contents
+- Transform the dataset: Clean and process data using Data Preview, Power Query and DAX
+- Analyze the dataset: Ask questions to filter hightlight information
+- Visualization: Create visualizations to assist key findings
+- Report making: Interpret the results and give informed decisions for the company
+## Business questions
 - For Sales:
   - Which product category has the highest volumn and revenue?
   - Who is the company's target customer for the highest revenue product category?
